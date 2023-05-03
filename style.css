@@ -1,12 +1,10 @@
 .grid-container{
     padding: 0;
     margin: 0;
-    border-style: solid;
-    border: black;
-    border-width: 1px;
-    display: grid;
-    width: 10em;
-    height: 10em;
+    width: 57em;
+    height: 50em;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .grid-cell{
@@ -14,6 +12,7 @@
     margin: 0;
     border-style: solid;
     border-color: black;
-    width: 5em;
-    height: 5em;
+    border-width: 1px;
+    width: 55px;
+    height: 55px;
 }
