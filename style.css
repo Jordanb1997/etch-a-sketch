@@ -16,3 +16,7 @@
     width: 55px;
     height: 55px;
 }
+
+.grid-cell:hover {
+    background-color: #f1f1f1;
+}
